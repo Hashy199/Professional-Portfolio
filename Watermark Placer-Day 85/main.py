@@ -82,7 +82,7 @@ def move_right():
     return paste()
 window = tk.Tk()
 
-window.title("Watermark Generator")
+window.title("Watermark Placer")
 window.configure(background=bg, padx=30, pady=20)
 display_img(root_image_path)
 
